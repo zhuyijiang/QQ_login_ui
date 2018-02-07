@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>set.png</file>
+        <file>最小化 (4).png</file>
+        <file>关闭 (1).png</file>
+        <file>title.jpg</file>
+        <file>check_1.png</file>
+        <file>check_2.png</file>
+        <file>check_3.png</file>
+        <file>unCheck_1.png</file>
+        <file>unCheck_2.png</file>
+        <file>unCheck_3.png</file>
+        <file>title_2.png</file>
+        <file>addUser_1.png</file>
+        <file>QRcode.png</file>
+        <file>addUser_2.png</file>
+        <file>addUser_3.png</file>
+        <file>comboBox.png</file>
+        <file>comboBox_1.png</file>
+        <file>b8014a90f603738df4c8a6c0b91bb051f919ec56.jpg</file>
+        <file>Animation.gif</file>
+    </qresource>
+</RCC>
